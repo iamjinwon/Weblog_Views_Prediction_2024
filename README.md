@@ -1,9 +1,6 @@
 # 웹 로그 기반 조회수 예측 해커톤 
 - Data_Visualization을 끝낸 후 실제 데이콘 경진대회 데이터를 활용하여 웹 로그 기반으로 조회수를 예측해보는 해커톤
 
-### 프로젝트 세부사항 및 세미나 영상
-[Jeju Traffic Prediction Notion Page](https://pepper-origami-952.notion.site/ML-jeju-traffic-prediction-75c0758007624c64bceccb2aa6cbbcb5?pvs=4)
-
 > ### 배경 
 안녕하세요!
 
